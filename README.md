@@ -12,4 +12,4 @@ Estudiante de 2º de DAM en Madrid, con experiencia previa en el ámbito de la e
 Terminando DAM y buscando prácticas como desarrollador junior.
 
 ## Contacto
-[[LinkedIn](https://www.linkedin.com/in/helenca-r-17a4a7171/)]
+[[LinkedIn](https://www.linkedin.com/in/helenca-rf/)]
