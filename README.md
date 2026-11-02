@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Helenca Rábano 👋
 
-<!--
-**HelencaGit/HelencaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º de DAM en Madrid, con experiencia previa en el ámbito de la educación y ganas de empezar en desarrollo de software.
 
-Here are some ideas to get you started:
+## Tecnologías
+ Java · SQL · Git · Jenkins · C# 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [biblioteca-winforms-csharp](https://github.com/HelencaGit/biblioteca-winforms-csharp): aplicación de escritorio para gestionar libros con portada.
+
+## Ahora mismo
+Terminando DAM y buscando prácticas como desarrollador junior.
+
+## Contacto
+[[LinkedIn](https://www.linkedin.com/in/helenca-r-17a4a7171/)]
