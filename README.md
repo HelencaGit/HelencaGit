@@ -3,7 +3,7 @@
 Estudiante de 2º de DAM en Madrid, con experiencia previa en el ámbito de la educación y ganas de empezar en desarrollo de software.
 
 ## Tecnologías
- Java · SQL · Git · Python ·Jenkins · C# 
+ Java · SQL · Git · Python · C# 
 
 ## Proyectos destacados
 - [biblioteca-winforms-csharp](https://github.com/HelencaGit/biblioteca-winforms-csharp): aplicación de escritorio para gestionar libros con portada.
